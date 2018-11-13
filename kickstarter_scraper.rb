@@ -11,4 +11,4 @@ end
 create_project_hash
 
 # project = kickstarter.css("li.project.grid_4")
-# title = project.css("h2.bbcard_name")
+# title = project.css("h2.bbcard_name strong a")
