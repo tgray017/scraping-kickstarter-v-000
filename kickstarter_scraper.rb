@@ -9,3 +9,5 @@ end
 
 
 create_project_hash
+
+#kickstarter.css("li.project.grid_4").first
